@@ -25,7 +25,7 @@ Halo CE Mobile: hcemobile.com
 
 PES 6: pes6.optijuegos.net
 
-GTA 5: https://web.archive.org/web/20261005232456/https://playgta5.com/
+GTA 5: https://gta.deloskiyt.pl/
 
 GTA Vice City: https://joncodeofficial.github.io/gta-vice-city-wasm/
 
